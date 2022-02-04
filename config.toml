@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://pimterest.github.io/"
 languageCode = "en-us"
 title = "Pimteresting"
 theme = "hugo-ink"
